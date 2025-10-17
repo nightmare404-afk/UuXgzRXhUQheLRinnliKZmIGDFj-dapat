@@ -70,7 +70,7 @@
       "name": "Kalkulator Proyeksi Pendapatan",
       "short_name": "Rp Dapat",
       "description": "Langsung ke halaman kalkulator by selangkah lebih maju",
-      "url": "https://inozhdixmaczitfsktd16-pendapatan.blogspot.com/2025/10/Egke0JUF1HbTe0P3r9WA50-proyeksi-pendapatan.htm?source=shortcut",
+      "url": "https://inozhdixmaczitfsktd16-pendapatan.blogspot.com/2025/10/Egke0JUF1HbTe0P3r9WA50-proyeksi-pendapatan.html?source=shortcut",
       "icons": [
         {
           "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrbtVQvGA6eVSA_ubhMOH1ndB63eMllTTEGnen1XKdsHFz9N8uQ_smVsvkNOhmy-nePU7f0cupvosFmtTbUP1Wo_6k91P23c3bcLY9E33WZTrLJIghGin60O4rZUIsrXF08FwYx4pw7GSMHak6e_qwmpGSQk0rHgZ_J0u_5h0qK7HhiqREQsiI27RH7F8/s1600/favicon_icon_192.png",
@@ -81,8 +81,9 @@
   ],
   "display_override": ["standalone", "minimal-ui"],
   "prefer_related_applications": false,
-  "id": "https://inozhdixmaczitfsktd16-pendapatan.blogspot.com/2025/10/Egke0JUF1HbTe0P3r9WA50-proyeksi-pendapatan.htm",
+  "id": "https://inozhdixmaczitfsktd16-pendapatan.blogspot.com/2025/10/Egke0JUF1HbTe0P3r9WA50-proyeksi-pendapatan.html",
   "launch_handler": {
     "client_mode": ["navigate-existing", "auto"]
   }
+
 }
